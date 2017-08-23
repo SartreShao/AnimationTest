@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimationTest</string>
+    <string name="ObjectAnimator">ObjectAnimator</string>
+    <string name="activity">打开第三个Activity</string>
+    <string name="hello_world">helloWorld!</string>
+    <string name="button_go">Button Go!</string>
+</resources>
